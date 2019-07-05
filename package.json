@@ -1,0 +1,19 @@
+{
+  "name": "pickme-serverless",
+  "version": "1.0.0",
+  "description": "The Pickme.io app using a serverless infrastructure",
+  "main": "functions/handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sparkbox/pickme-serverless.git"
+  },
+  "author": "Nathan Rambeck <nathan@heysparkbox.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sparkbox/pickme-serverless/issues"
+  },
+  "homepage": "https://github.com/sparkbox/pickme-serverless#readme"
+}
